@@ -1,1 +1,5 @@
-# CLASS-12-WEB-PRACTICE
+# Grade 12 - PHP CRUD OPERATIONS Project
+
+2022
+
+NSS-NIST (Nepal)
