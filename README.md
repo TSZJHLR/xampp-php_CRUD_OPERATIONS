@@ -1,4 +1,4 @@
-# Grade 12 - PHP CRUD OPERATIONS Project
+# Grade 12 - PHP Project
 
 2022
 
